@@ -410,7 +410,7 @@ margin-left: 70px;
     background-color: rgba(202, 98, 23, 0.204);
     color: black;
     margin-left: -10px;
-    margin-right: -1500px;
+    margin-right: -765px;
   z-index: 12;
   }
   .two{
@@ -447,12 +447,12 @@ margin-left: 70px;
           }
           .ce{
             position: relative;
-            left: 20px;
+            right: 20px;
           }
           .box3{
             position: relative;
               left: 200px;
-              width: 100px;
+              width: 1000px;
               height: 300px;
               border: 2px solid black;
               padding: 45px;
