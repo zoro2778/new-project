@@ -1,6 +1,6 @@
 .nav{
   position: sticky;
-  top: 0;
+  top: 0px;
   display: flex;
   background-color: rgba(23, 202, 65, 0.204);
   color: black;
@@ -405,17 +405,17 @@ margin-left: 70px;
 @media screen and (max-width:600px){
   .nav{
     position: sticky;
-    top: 0;
+    top: 0px;
     display: flex;
     background-color: rgba(202, 98, 23, 0.204);
     color: black;
     margin-left: -10px;
-    margin-right: -765px;
+    margin-right: -910px;
   z-index: 12;
   }
   .two{
     position: relative;
-    left: 500px;
+    left: 800px;
     text-align: center;
     margin-top: 30px;
     font-size: 25px;
@@ -424,7 +424,7 @@ margin-left: 70px;
     .three{
       position: relative;
       margin-left: -500px;
-      left: 500px;
+      left: 850px;
       }
       #pla{
         position: relative;
